@@ -44,7 +44,6 @@ https://resume-screener-ai-a8aoxo6uqytreemmw9njux.streamlit.app/
 
 ---
 
-## 📂 Project Structure
 resume-screener-ai/ │ ├── app.py ├── requirements.txt ├── README.md │ ├── utils/ │   ├── resume_parser.py │   ├── scoring.py │   ├── feedback.py │ ├── assets/ │ └── sample_resumes/
 
 ---
