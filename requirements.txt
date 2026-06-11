@@ -1,0 +1,11 @@
+openai
+python-dotenv
+PyPDF2
+python-multipart
+reportlab
+streamlit
+scikit-learn
+pdfplumber
+fastapi
+uvicorn
+requests
